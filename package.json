@@ -1,0 +1,41 @@
+{
+  "_from": "@mediapipe/holistic",
+  "_id": "@mediapipe/holistic@0.1.1613603339",
+  "_inBundle": false,
+  "_integrity": "sha512-+X0uSzbm4+dKjdmRiZGkecWuUButto6DJqbrO5wq6aNjS1Mv0qXO7cLalQUAZ2d3FPoB6I4SKoAC8wAFcywcSg==",
+  "_location": "/@mediapipe/holistic",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@mediapipe/holistic",
+    "name": "@mediapipe/holistic",
+    "escapedName": "@mediapipe%2fholistic",
+    "scope": "@mediapipe",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@mediapipe/holistic/-/holistic-0.1.1613603339.tgz",
+  "_shasum": "21d975586af78dfce5988f2ce6f0decd1c94c1f2",
+  "_spec": "@mediapipe/holistic",
+  "_where": "/Users/danielsolerviladrich/Repos/trakFront",
+  "author": {
+    "name": "mhays@google.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Mediapipe Holistic Solution",
+  "homepage": "https://google.github.io/mediapipe/solutions/holistic",
+  "license": "Apache-2.0",
+  "main": "",
+  "name": "@mediapipe/holistic",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.1613603339"
+}
